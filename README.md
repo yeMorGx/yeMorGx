@@ -1,4 +1,22 @@
-## Hi there 👋
+# 👋 Eu sou o yeMorGx
+
+💻 Desenvolvedor web  
+🎨 Front-end & sistemas  
+🚀 Criando projetos e aprendendo todos os dias
+
+## 🧠 O que eu sei
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📂 Projetos
+- MaisCtrl – controle financeiro
+- Sistema SGS – gestão de dados
+- Portfólio pessoal
+
+## 📫 Contato
+Instagram: @morgxreal
 
 <!--
 **yeMorGx/yeMorGx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
