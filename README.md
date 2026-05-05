@@ -8,21 +8,21 @@
 **Front-end**
 - HTML
 - CSS
-- JavaScript
+- Tailwind
+- React
+- Next.js
 
 **Back-end**
 - Node.js
-- APIs REST
-- Integrações básicas
+- Python
+- PHP
+- Go (Estudando)
+- JavaScript
 
 **Ferramentas**
 - Git & GitHub
-- Lovable
-
-## 🔥 Projetos em destaque
-- 💳 MaisCtrl – sistema de controle financeiro
-- 📊 Sistema SGS – gestão de dados
-- 🌐 Portfólio pessoal
+- APIs REST
+- Integrações básicas
 
 ## 📫 Contato
 Instagram: @mge.dev
