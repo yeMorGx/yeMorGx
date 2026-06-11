@@ -22,8 +22,6 @@ Atualmente construindo [maisctrl.com](https://maisctrl.com) — plataforma de co
 [![LinkedIn](https://img.shields.io/badge/gabrielmcgoes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielmcgoes)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/@morgxtreze-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/morgxtreze)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/yeMorGx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yeMorGx)
 
 ---
 
