@@ -1,7 +1,6 @@
 # Gabriel Morgado
-
-Desenvolvedor full-stack focado em produtos web e mobile com experiência real.  
-Atualmente construindo [maisctrl.com](https://maisctrl.com) — plataforma de controle financeiro pessoal.
+Full-stack developer focused on web and mobile products, with real-world production experience.
+Currently building [maisctrl.com](https://maisctrl.com) — a personal finance management platform.
 
 ---
 
@@ -17,7 +16,7 @@ Atualmente construindo [maisctrl.com](https://maisctrl.com) — plataforma de co
 
 ---
 
-**Contato**
+**Contact**
 
 [![LinkedIn](https://img.shields.io/badge/gabrielmcgoes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielmcgoes)
 &nbsp;
