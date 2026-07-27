@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Analyst;DevSecOps+Enthusiast;Building+Secure+and+Scalable+Applications" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=morgx-py&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/morgx-py?label=Followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/morgx-py?affiliations=OWNER&style=flat&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=yeMorGx&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/yeMorGx?label=Followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/yeMorGx?affiliations=OWNER&style=flat&color=yellow" />
 </p>
 
 </div>
@@ -16,9 +16,9 @@
 
 # 🚀 About Me
 
-```ts
+\`\`\`ts
 const gabriel = {
-    name: "Gabriel",
+    name: "Gabriel Morgado",
     location: "Brazil 🇧🇷",
     role: [
         "Full-Stack Developer",
@@ -43,7 +43,7 @@ const gabriel = {
         "AI Agents"
     ]
 }
-```
+\`\`\`
 
 ---
 
@@ -144,7 +144,7 @@ const gabriel = {
 
 ### Tools
 
-```
+\`\`\`
 Wazuh
 Sysmon
 TheHive
@@ -155,33 +155,39 @@ AbuseIPDB
 n8n
 Grafana
 Docker
-```
+\`\`\`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 Mind
+### 💰 MaisCTRL
 
-AI Prompt Platform with marketplace, testing environment and prompt management.
+Personal finance management platform ([maisctrl.com](https://maisctrl.com)), with a companion React Native (Expo) mobile app in progress.
 
 ---
 
-### ❤️ 2gether
+### 🧠 Mind
 
-Wishlist and goals platform for couples.
+AI prompt vault SaaS with multi-tenant workspace support — Node.js, Express, Supabase Auth, and PostgreSQL under the hood.
+
+---
+
+### ❤️ 2gether Finance
+
+Shared financial management SaaS for couples, built on Next.js, Prisma, Supabase, TanStack Query, and Zustand.
 
 ---
 
 ### 📊 Admin Dashboard
 
-Modern dashboard built with Next.js, Supabase and TypeScript.
+Next.js 16 / React 19 admin dashboard with Microsoft Azure AD SSO and Supabase authentication, including an approval workflow for new SSO registrations.
 
 ---
 
-### 🤖 Security Automation
+### 🤖 SOC Automation
 
-Automation workflows integrating APIs, webhooks, SIEM and security platforms.
+n8n workflows for network monitoring and alerting, integrating Wazuh, TheHive, and Grafana.
 
 ---
 
@@ -189,9 +195,9 @@ Automation workflows integrating APIs, webhooks, SIEM and security platforms.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=morgx-py&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yeMorGx&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgx-py&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeMorGx&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -199,7 +205,7 @@ Automation workflows integrating APIs, webhooks, SIEM and security platforms.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=morgx-py&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yeMorGx&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -209,7 +215,7 @@ Automation workflows integrating APIs, webhooks, SIEM and security platforms.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=morgx-py&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yeMorGx&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
@@ -219,7 +225,7 @@ Automation workflows integrating APIs, webhooks, SIEM and security platforms.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=morgx-py&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeMorGx&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -235,16 +241,12 @@ Automation workflows integrating APIs, webhooks, SIEM and security platforms.
 
 <p align="center">
 
-<a href="https://github.com/morgx-py">
+<a href="https://github.com/yeMorGx">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://linkedin.com/in/gabrielmcgoes">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
