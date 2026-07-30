@@ -14,39 +14,6 @@
 
 ---
 
-# 🚀 About Me
-
-\`\`\`ts
-const gabriel = {
-    name: "Gabriel Morgado",
-    location: "Brazil 🇧🇷",
-    role: [
-        "Full-Stack Developer",
-        "Cybersecurity Analyst",
-        "DevSecOps Enthusiast"
-    ],
-
-    passion: [
-        "Building SaaS",
-        "Cybersecurity",
-        "Automation",
-        "Artificial Intelligence",
-        "Cloud",
-        "Open Source"
-    ],
-
-    currentlyLearning: [
-        "AWS",
-        "Kubernetes",
-        "DevSecOps",
-        "Advanced Backend",
-        "AI Agents"
-    ]
-}
-\`\`\`
-
----
-
 # 💻 Tech Stack
 
 ### Frontend
